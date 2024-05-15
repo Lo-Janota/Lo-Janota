@@ -19,15 +19,17 @@ Já trabalhei como vendedor e até na parte de logística.
    <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
    <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"/>
    <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+    <!-- Peguei os icones no site devicons
    <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
    <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
+    -->
   </div>
 
  ## Você também me encontra em:
   <a href="https://www.linkedin.com/in/lorenzo-janota-9b1177235/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/lo_janota/?next=%2F"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
-## Já aproveita e da uma olhada nos meus projetos:
+## Já aproveita que esta aqui e da uma olhada nos meus principais projetos:
 - <a href="https://github.com/Lo-Janota/ExchangeRates"> Projeto mobile desenvolvido em Swift para visualizar e comparar taxas de câmbio entre diferentes moedas.</a>
 - <a href="https://github.com/Lo-Janota/LibrarySystem"> Projeto desenvolvido em JAVA/SQLite/Java Swing para o gerenciamento de livros da biblioteca da UNAERP.</a>
 - <a href="https://github.com/Lo-Janota/SiteProject"> Projeto consiste na criação de um site estático para um cliente do ramo de automação industrial desenvolvido com HTML/CSS/JS.</a>
