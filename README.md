@@ -19,10 +19,10 @@ Já trabalhei como vendedor e até na parte de logística.
    <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
    <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"/>
    <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-    <!-- Peguei os icones no site devicons
    <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
    <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
-    -->
+   <!-- Peguei os icones no site devicons -->
+    
   </div>
 
  ## Você também me encontra em:
