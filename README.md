@@ -34,5 +34,5 @@ Já trabalhei como vendedor e até na parte de logística.
 - <a href="https://github.com/Lo-Janota/ExchangeRates"> Projeto mobile desenvolvido em Swift para visualizar e comparar taxas de câmbio entre diferentes moedas.</a>
 - <a href="https://github.com/Lo-Janota/LibrarySystem"> Projeto desenvolvido em JAVA/SQLite/Java Swing para o gerenciamento de livros da biblioteca da UNAERP.</a>
 - <a href="https://github.com/Lo-Janota/JRNegocios-Site"> Projeto consiste na criação de um site estático para um cliente do ramo de automação industrial desenvolvido com HTML/CSS/JS e BOOTSTRAP como Framework.</a>
-- <a href="https://github.com/Lo-Janota/Portifolio"> Portifólio.</a>
+- <a href="https://github.com/Lo-Janota/Agendamento-Barbearia"> Projeto para criação de um site para agendamento de barbearias. Possui funcionalidades para agendar em horário e dia, com o profissional de seu interesse. Esta sendo desenvolvido com HTML/CSS/JS/NODE.JS/SQL.</a>
 
