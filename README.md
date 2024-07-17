@@ -27,8 +27,8 @@ Já trabalhei como vendedor e até na parte de logística.
   </div>
 
  ## Você também me encontra em:
-  <a href="https://www.linkedin.com/in/lorenzo-janota-9b1177235/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/lo_janota/?next=%2F"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lorenzo-janota-9b1177235/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/lo_janota/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
 ## Já aproveita que esta aqui e da uma olhada nos meus principais projetos:
 - <a href="https://github.com/Lo-Janota/ExchangeRates"> Projeto mobile desenvolvido em Swift para visualizar e comparar taxas de câmbio entre diferentes moedas.</a>
