@@ -21,6 +21,7 @@ Estudante de <strong>Engenharia de Software</strong>. <br> Atualmente sendo Anal
    <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
    <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
    <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+   <img widht='60' height='60' src="https://img.icons8.com/?size=100&id=5pu47piHKg1I&format=png&color=000000" />
     
   </div>
 
