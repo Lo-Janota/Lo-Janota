@@ -8,20 +8,22 @@ Estudante de <strong>Engenharia de Software</strong>. <br> Atualmente sendo Anal
 - 🎮 Gosto muito de jogar no meu tempo livre.
 - 💻 Atualmente mais focado em:
   <div style="display: inline">
-   <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/>
-   <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg"/>
+   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/4b92eaaa-a8d4-402b-8b64-365e3e99d926" />
+   <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
+   <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
+   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/71a71a72-5aa9-4dbe-89be-5bd91e7107fe" />
    <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-   <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"/>
+   
  </div>
  
 - 📚 Breve conhecimento em:
   <div style="display: inline">
    <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
    <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"/>
-   <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
-   <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
    <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
    <img widht='60' height='60' src="https://img.icons8.com/?size=100&id=5pu47piHKg1I&format=png&color=000000" />
+   <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"/>
+   <img widht='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg"/>
     
   </div>
 
