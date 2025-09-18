@@ -4,8 +4,7 @@ Estudante de <strong>Engenharia de Software</strong>. <br> Atualmente sendo Anal
 
 - 📌 Ribeirão Preto - SP
 - 👨‍🎓 **UNAERP**
-- 🏆 Maluco dos esportes, principalmente por **futebol**
-- 🎮 Gosto muito de jogar no meu tempo livre.
+<br>
 - 💻 Atualmente mais focado em:
   <div style="display: inline">
    <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/4b92eaaa-a8d4-402b-8b64-365e3e99d926" />
