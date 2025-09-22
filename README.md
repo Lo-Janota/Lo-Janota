@@ -1,10 +1,8 @@
 ## Prazer, Lorenzo Janota por aqui!
-Estudante de <strong>Engenharia de Software</strong>. <br> Atualmente sendo Analista de Sistema e buscando a tão sonhada oportunidade com desenvolvimento.
-
-
+<strong>Estudante de Engenharia de Software | Desenvolvedor PHP </strong>
 - 📌 Ribeirão Preto - SP
 - 👨‍🎓 **UNAERP**
-<br>
+
 - 💻 Atualmente mais focado em:
   <div style="display: inline">
    <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/4b92eaaa-a8d4-402b-8b64-365e3e99d926" />
