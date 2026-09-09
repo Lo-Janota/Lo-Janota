@@ -45,10 +45,8 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lo-Janota&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lo-Janota&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
-</p>
+<p align="left"> <img height="180" src="https://github-stats-extended.vercel.app/api?username=Lo-Janota&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" /> <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lo-Janota&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" /> </p>
+
 
 ---
 
