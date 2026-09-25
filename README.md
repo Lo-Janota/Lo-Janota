@@ -54,13 +54,15 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| [Cliniq](https://usecliniq.tech) | Sistema para Psicólogos e Fonoaudiólogos | `HTML` `CSS` `JS` `PHP` `MySQL` `Ubuntu` |
+| [ImobAi](https://github.com/Lo-Janota/ImobAi) | Sistema de Web Scraping para corretores de imovéis | `HTML` `CSS` `JS` `Python` `TypeScript` `PostgreSQL` |
+| [ProjectPHP](https://github.com/Lo-Janota/ProjectPHP) | Blog de culinária com backend em PHP | `HTML` `CSS` `JS` `PHP` `Bootstrap` |
 | [ExchangeRates](https://github.com/Lo-Janota/ExchangeRates) | App mobile para visualizar e comparar taxas de câmbio entre moedas | `Swift` |
 | [GasolinaOuAlcool](https://github.com/Lo-Janota/GasolinaOuAlcool) | Calculadora para decidir entre gasolina ou álcool no posto | `Swift` |
 | [WeatherApp](https://github.com/Lo-Janota/WeatherApp) | Aplicativo de clima com consumo de API para dados em tempo real | `Swift` `UIKit` |
 | [ShoppingListApp](https://github.com/Lo-Janota/ShoppingListApp) | Aplicativo para gerenciamento de listas de compras | `Kotlin` |
 | [LibrarySystem](https://github.com/Lo-Janota/LibrarySystem) | Sistema de gerenciamento dos livros da biblioteca da UNAERP | `Java` `SQLite` `Java Swing` |
 | [JRNegocios-Site](https://github.com/Lo-Janota/JRNegocios-Site) | Site estático para cliente do ramo de automação industrial | `HTML` `CSS` `JS` `Bootstrap` |
-| [ProjectPHP](https://github.com/Lo-Janota/ProjectPHP) | Blog de culinária com backend em PHP | `HTML` `CSS` `JS` `PHP` `Bootstrap` |
 
 ---
 
