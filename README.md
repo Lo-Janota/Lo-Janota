@@ -55,7 +55,7 @@
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [Cliniq](https://usecliniq.tech) | Sistema para Psicólogos e Fonoaudiólogos | `HTML` `CSS` `JS` `PHP` `MySQL` `Ubuntu` |
-| [ImobAi](https://github.com/Lo-Janota/ImobAi) | Sistema de Web Scraping para corretores de imovéis | `HTML` `CSS` `JS` `Python` `TypeScript` `PostgreSQL` |
+| [ImobAi](https://useimobai.com.br/) | Sistema de Web Scraping para corretores de imovéis | `HTML` `CSS` `JS` `Python` `TypeScript` `PostgreSQL` |
 | [ProjectPHP](https://github.com/Lo-Janota/ProjectPHP) | Blog de culinária com backend em PHP | `HTML` `CSS` `JS` `PHP` `Bootstrap` |
 | [ExchangeRates](https://github.com/Lo-Janota/ExchangeRates) | App mobile para visualizar e comparar taxas de câmbio entre moedas | `Swift` |
 | [GasolinaOuAlcool](https://github.com/Lo-Janota/GasolinaOuAlcool) | Calculadora para decidir entre gasolina ou álcool no posto | `Swift` |
